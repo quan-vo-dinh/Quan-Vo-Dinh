@@ -5,7 +5,10 @@
 #### *[vodinhquan.dev](https://vodinhquan.dev)*
 
 > *“Hey, it's **bin** — just **refactoring life** again!”*
+
+<!--
 A **Former Frontend dev**, currently a ***handyman dev***, focusing on **Backend**.
+-->
 
 #### *Tech Stack*
 <p align="left">
