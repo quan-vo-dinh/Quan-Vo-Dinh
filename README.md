@@ -2,7 +2,7 @@
 <img alt="image" src="https://github.com/user-attachments/assets/aca31014-1bb4-4561-85a9-a6a06f28e22c" width="100%" />
 -->
 
-#### *[vodinhquan.dev](https://vodinhquan.dev)*
+#### *[vodinhquan.work](https://vodinhquan.work)*
 
 > *“Hey, it's **bin** — just **refactoring life** again!”*
 
