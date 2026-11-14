@@ -36,10 +36,10 @@ A **Former Frontend dev**, currently a ***handyman dev***, focusing on **Backend
 
 #### *Git Stats*
 <p align="center">
-  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/overview.svg#gh-dark-mode-only'>
-  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/languages.svg#gh-dark-mode-only'>
-  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/overview.svg#gh-light-mode-only'>
-  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/languages.svg#gh-light-mode-only'>
+  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/overview.svg?v=20261114#gh-dark-mode-only'>
+  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/languages.svg?v=20261114#gh-dark-mode-only'>
+  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/overview.svg?v=20261114#gh-light-mode-only'>
+  <img width="400" src='https://raw.githubusercontent.com/quan-vo-dinh/github-stats/master/generated/languages.svg?v=20261114#gh-light-mode-only'>
 </p>
 
 
